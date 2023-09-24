@@ -1,0 +1,2 @@
+GUIeliminarPorISBN
+GUIeliminarPorISBN$1
